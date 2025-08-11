@@ -2,6 +2,8 @@
 
 - Planned improvements for builder UX and additional field plugins
 - Performance profiling and minor API refinements
+## 1.0.1 - 2025-08-11
+- Updated README.md documentation
 
 ## 1.0.0
 
