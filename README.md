@@ -1,5 +1,12 @@
 # 📦 smart_form_builder
-
+[![Pub Version](https://img.shields.io/pub/v/smart_form_builder.svg)](https://pub.dev/packages/smart_form_builder)
+[![Pub Likes](https://img.shields.io/pub/likes/smart_form_builder)](https://pub.dev/packages/smart_form_builder/score)
+[![Pub Points](https://img.shields.io/pub/points/smart_form_builder)](https://pub.dev/packages/smart_form_builder/score)
+[![Popularity](https://img.shields.io/pub/popularity/smart_form_builder)](https://pub.dev/packages/smart_form_builder/score)
+[![Pub Downloads](https://img.shields.io/pub/dm/smart_form_builder)](https://pub.dev/packages/smart_form_builder)
+[![GitHub Stars](https://img.shields.io/github/stars/sdkwala/flutter_smart_form_builder)](https://github.com/sdkwala/flutter_smart_form_builder)
+[![GitHub Downloads](https://img.shields.io/github/downloads/sdkwala/flutter_smart_form_builder/total)](https://github.com/sdkwala/flutter_smart_form_builder/releases)
+[![License](https://img.shields.io/github/license/sdkwala/flutter_smart_form_builder)](https://github.com/sdkwala/flutter_smart_form_builder/blob/master/LICENSE)
 A **Flutter SDK package** to build dynamic, multi-step, multilingual forms using JSON schemas — with full customization, plugin support, and drag-and-drop visual editing.  
 This is **not a standalone app**, but a reusable **component library** that other Flutter apps can import and use.
 
