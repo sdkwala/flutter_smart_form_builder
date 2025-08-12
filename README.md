@@ -14,12 +14,6 @@ This is **not a standalone app**, but a reusable **component library** that othe
 
 ## ✨ Key Features
 
-### 🚀 Visual Drag-and-Drop UI Builder
-- Reorder, add, and remove fields visually
-- Move fields between form steps
-- Real-time preview
-- Works on Flutter Web for admin panel use cases
-
 ### 🛠 Built-in Field Types
 - Text, Multiline, Email, Phone, Password
 - Dropdown, Multi-Select, Country/State/City picker
@@ -27,7 +21,6 @@ This is **not a standalone app**, but a reusable **component library** that othe
 - Date, Time, DateTime picker
 - File/Image upload, Signature pad
 - Color picker, Rating, Currency, HTML editor
-- Dynamic dropdown (API-based), OTP field, Repeater group, Map location picker
 
 ### 🌍 Language & RTL Support
 - Fully multilingual (labels, placeholders, error messages)
@@ -41,11 +34,6 @@ This is **not a standalone app**, but a reusable **component library** that othe
 - Custom validators (sync/async)
 - Conditional logic for field visibility
 - Plugin support for external data sources & custom fields
-
-### 📄 JSON Schema Import/Export
-- Define form structure as JSON
-- Save & load form schemas
-- Supports custom metadata & extensions
 
 ### 🧩 Multi-Step Form Wizard
 - Break long forms into steps

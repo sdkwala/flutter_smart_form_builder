@@ -1,5 +1,5 @@
 name: smart_form_builder
-version: 1.0.1
+version: 1.0.2
 description: >
   A powerful, extensible Flutter SDK for building dynamic forms from JSON schema, supporting localization, theming, plugins, RTL, and advanced validation. Easily render multi-step forms, custom field types, and conditional logic in any Flutter app.
 repository: https://github.com/sdkwala/flutter_smart_form_builder
